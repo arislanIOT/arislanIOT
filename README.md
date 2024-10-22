@@ -81,9 +81,6 @@ I am a Cloud DevOps Engineer with a passion for building scalable, secure, and e
 
 ### 🔗 Connect with me on [GitHub](https://github.com/arislanIOT) to explore my projects and contributions.
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arislaniot&show_icons=true&locale=en&layout=compact" alt="arislaniot" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arislaniot&show_icons=true&locale=en" alt="arislaniot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arislaniot&" alt="arislaniot" /></p>
